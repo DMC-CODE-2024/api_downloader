@@ -10,8 +10,8 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gl.ceir</groupId>
-	<artifactId>downloader</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>api_downloader</artifactId>
+	<version>1.0.0</version>
 	<name>downloader</name>
 	<description>Redmine Downloader</description>
 	<url />
